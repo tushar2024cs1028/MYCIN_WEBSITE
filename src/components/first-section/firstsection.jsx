@@ -13,8 +13,7 @@ const firstSection = () => {
                Mycin Club
               </h2>
               <p className="information1">
-              Mycin is a student driven club since 2021 associated with KIET Innovative Center. We are  dedicated to provide all our members an ability to identify, formulate, and solve engineering problems. 
-              <br></br><br></br>An understanding of professional and ethical responsibility.
+              Mycin is a student driven club since 2021 associated with KIET Innovative Centre focused on enhancing the practical knowledge of students by organizing the classes, seminar within the college. <br></br><br></br>The motive of the club is to create awareness about the upcoming technologies around the campus.
               
               </p>
              { /*<button className="btninside">Join us </button>*/}

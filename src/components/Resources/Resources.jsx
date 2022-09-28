@@ -33,16 +33,15 @@ return(
   	 				        <li><a  className="alink" href="https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/" target="_blank"rel="noopener noreferrer">Learn Object Detection</a></li>
   	 			         </ul>
         </div>
-       {/* <div className="Resources_Name">
-                        <h4>Cyber Security</h4>
+        <div className="Resources_Name">
+                        <h4>Augmented Reality</h4>
                         <hr></hr>
   	 			         <ul className="Resources_Link">
-							<li><a className="alink" href="#!" target="_blank" rel="noopener noreferrer">How does it work</a></li>
-  	 				        <li><a className="alink" href="#!" target="_blank"rel="noopener noreferrer">How does it work</a></li>
-  	 				        <li><a  className="alink" href="#!" target="_blank" rel="noopener noreferrer">How does it work</a></li>
-  	 				        <li><a  className="alink" href="#!" target="_blank" rel="noopener noreferrer">How does it work</a></li>
+							<li><a className="alink" href="https://www.youtube.com/watch?v=Sqb-Ue7wpsI&list=PLWKjhJtqVAbmh6kzCSUon-SoTaMvXnHMB" target="_blank" rel="noopener noreferrer">Learn from Brackey's Tutorial </a></li>
+  	 				        <li><a className="alink" href="https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&ab_channel=Brackeys" target="_blank"rel="noopener noreferrer">Learn from FreeCodeCamp Tutorials </a></li>
+  	 				        <li><a  className="alink" href="https://www.youtube.com/watch?v=E6A4WvsDeLE&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&ab_channel=CodeMonkey" target="_blank" rel="noopener noreferrer">Learn from CodeMonkeys Tutorial </a></li>
   	 			         </ul>
-            </div>*/}
+            </div>
     
     </div>
 );

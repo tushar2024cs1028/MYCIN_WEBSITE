@@ -91,3 +91,11 @@ transition: all 0.2s ease-in-out;
         left:0px;
     }
 }
+@media all and (max-width: 566px){
+    .home_content{
+        text-align: -webkit-center;
+        left: 0px;
+        margin: 0px;
+        width: 75%;
+    }
+}

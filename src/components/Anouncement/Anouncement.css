@@ -87,8 +87,9 @@ transition: all 0.2s ease-in-out;
     
 }
 @media all and (max-width:1179px){
-    .anouncecontent{
-        width: auto;
+    .anouncecontent{    
+        width: 78%;
+        margin: 0px;
     }
     .Imgsection{
         position:static;

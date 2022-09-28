@@ -1,5 +1,5 @@
 .section1{
-    height: 619px;
+    height: 100vh;
     margin-top:-10px;
     background: white;
     
@@ -74,7 +74,6 @@ transition: all 0.2s ease-in-out;
 @media only screen and (max-width: 1155px){
 .home_content{
     width: 48%;
-   
 
 }
 .btninside{

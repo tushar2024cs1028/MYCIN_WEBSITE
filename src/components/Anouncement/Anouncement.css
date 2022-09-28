@@ -65,9 +65,28 @@ transition: all 0.2s ease-in-out;
 .Imgsection{
     position: absolute;
     right: 232px;
-    top: 293px;
+    top:  226px;
+}
+.Imgsection img{
+    width: 230px;
 }
 @media  only screen and (max-width:1385px) {
+    
+    .Imgsection{
+        position:static;
+        right: 0px;
+        top:0px;
+        margin-bottom:50px ;
+    }
+    .Imgsection img{
+        position: absolute;
+    right: 232px;
+    top: 226px;
+
+    }
+    
+}
+@media all and (max-width:1179px){
     .anouncecontent{
         width: auto;
     }
@@ -75,11 +94,13 @@ transition: all 0.2s ease-in-out;
         position:static;
         right: 0px;
         top:0px;
-       
+        margin-bottom:50px ;
     }
     .Imgsection img{
+        position: static;
+    right: 0px;
+    top: 0px;
         display: block;
         margin: auto;
-    }
-    
+    } 
 }

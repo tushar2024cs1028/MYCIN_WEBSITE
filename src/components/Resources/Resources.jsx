@@ -1,5 +1,4 @@
 import "./Resources.css";
-import { Link } from "react-router-dom";
 const Resources=()=>{
 return(
     <div className="Resources">
@@ -8,42 +7,42 @@ return(
                         <h4>Frontend</h4>
                         <hr></hr>
   	 			         <ul className="Resources_Link">
-  	 				        <li><a className="alink" href="https://www.w3schools.com/html/" target="_blank">Learn HTML</a></li>
-  	 				        <li><a className="alink" href="https://www.w3schools.com/css/" target="_blank">Learn CSS</a></li>
-  	 				        <li><a  className="alink" href="https://www.w3schools.com/js/" target="_blank">Learn JavaScript</a></li>
-  	 				        <li><a  className="alink" href="https://reactjs.org/" target="_blank">Learn React JS</a></li>
+  	 				        <li><a className="alink" href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer" >Learn HTML</a></li>
+  	 				        <li><a className="alink" href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">Learn CSS</a></li>
+  	 				        <li><a  className="alink" href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer">Learn JavaScript</a></li>
+  	 				        <li><a  className="alink" href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">Learn React JS</a></li>
   	 			         </ul>
         </div>
         <div className="Resources_Name">
                         <h4>Backend</h4>
                         <hr></hr>
   	 			         <ul className="Resources_Link">
-							<li><a className="alink" href="#!" target="_blank">How does it work</a></li>
-  	 				        <li><a className="alink" href="#!" target="_blank">How does it work</a></li>
-  	 				        <li><a  className="alink" href="#!" target="_blank">How does it work</a></li>
-  	 				        <li><a  className="alink" href="#!" target="_blank">How does it work</a></li>
+							<li><a className="alink" href="https://www.analyticsvidhya.com/machine-learning/" target="_blank"rel="noopener noreferrer">Learn Machine Learning</a></li>
+  	 				        <li><a className="alink" href="https://www.analyticsvidhya.com/blog/2021/04/getting-started-with-deep-learning-heres-a-quick-guide-explaining-everything-at-a-place/" target="_blank" rel="noopener noreferrer">Learn Deep Learning</a></li>
+  	 				        <li><a  className="alink" href="https://www.analyticsvidhya.com/blog/2019/03/opencv-functions-computer-vision-python/" target="_blank" rel="noopener noreferrer">Learn OpenCV</a></li>
+  	 				        <li><a  className="alink" href="https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/" target="_blank"rel="noopener noreferrer">Learn Object Detection</a></li>
   	 			         </ul>
         </div>
         <div className="Resources_Name">
                         <h4>Artificial Intelligence</h4>
                         <hr></hr>
   	 			         <ul className="Resources_Link">
-							<li><a className="alink" href="#!" target="_blank">How does it work</a></li>
-  	 				        <li><a className="alink" href="#!" target="_blank">How does it work</a></li>
-  	 				        <li><a  className="alink" href="#!" target="_blank">How does it work</a></li>
-  	 				        <li><a  className="alink" href="#!" target="_blank">How does it work</a></li>
+							<li><a className="alink" href="#!" target="_blank" rel="noopener noreferrer">How does it work</a></li>
+  	 				        <li><a className="alink" href="#!" target="_blank"rel="noopener noreferrer">How does it work</a></li>
+  	 				        <li><a  className="alink" href="#!" target="_blank" rel="noopener noreferrer">How does it work</a></li>
+  	 				        <li><a  className="alink" href="#!" target="_blank" rel="noopener noreferrer">How does it work</a></li>
   	 			         </ul>
         </div>
-        <div className="Resources_Name">
+       {/* <div className="Resources_Name">
                         <h4>Cyber Security</h4>
                         <hr></hr>
   	 			         <ul className="Resources_Link">
-							<li><a className="alink" href="#!" target="_blank">How does it work</a></li>
-  	 				        <li><a className="alink" href="#!" target="_blank">How does it work</a></li>
-  	 				        <li><a  className="alink" href="#!" target="_blank">How does it work</a></li>
-  	 				        <li><a  className="alink" href="#!" target="_blank">How does it work</a></li>
+							<li><a className="alink" href="#!" target="_blank" rel="noopener noreferrer">How does it work</a></li>
+  	 				        <li><a className="alink" href="#!" target="_blank"rel="noopener noreferrer">How does it work</a></li>
+  	 				        <li><a  className="alink" href="#!" target="_blank" rel="noopener noreferrer">How does it work</a></li>
+  	 				        <li><a  className="alink" href="#!" target="_blank" rel="noopener noreferrer">How does it work</a></li>
   	 			         </ul>
-        </div>
+            </div>*/}
     
     </div>
 );

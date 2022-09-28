@@ -20,7 +20,7 @@ const EventCard=({ imageSource, title,text,SendEventExplorerToEvent})=>{
               className="Event_btni"
               rel="noreferrer"
             >
-              <button className="Event_btn"  onClick={SendEventExplorer}>Learn More</button>
+              <button className="Event_btn"  onClick={SendEventExplorer}>View Gallery</button>
             </Link>
           </div>
         </div>

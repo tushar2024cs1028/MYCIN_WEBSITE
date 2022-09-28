@@ -21,7 +21,7 @@ const cards = [
       title: "ML/AI",
       image: image2,
       url: "#",
-      text:"we work on solution building of complex problems using technologies like machine learning and deep learning. We analyse datasets, work on them and extract useful information from them. We also work on Computer Vision technologies to enhance presently available services."
+      text:"We work on solution building of complex problems using technologies like machine learning and deep learning. We analyse datasets, work on them and extract useful information from them. We also work on Computer Vision technologies to enhance presently available services."
     },
     {
       id: 3,

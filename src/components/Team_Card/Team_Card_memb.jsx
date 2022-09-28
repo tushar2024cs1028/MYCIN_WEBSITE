@@ -24,7 +24,7 @@ const Team_Member=()=>{
           id: 1,
           title: "Archit Srivastava",
           image: image1,
-          text:"Preseident",
+          text:"President",
           git:"#!",
           linkdin:"https://www.linkedin.com/in/archit1203/",
           insta:"https://www.instagram.com/archit.1203?r=nametag"
@@ -44,7 +44,7 @@ const Team_Member=()=>{
           id: 10,
           title: "Nandini Tyagi",
           image: image10,
-          text:"Lead",
+          text:"Secretary",
           git:"",
           linkdin:"https://www.linkedin.com/in/nandini-tyagi-276a75213",
           insta:""
@@ -103,7 +103,7 @@ const Team_Member=()=>{
           },
           {
             id: 7,
-            title: "Shubhank dwivedi",
+            title: "Shubhank Dwivedi",
             image: image7,
             text:"Domain Head | VRFLY",
             git:"https://github.com/vr-cyber",
@@ -123,7 +123,7 @@ const Team_Member=()=>{
           },
           {
             id: 9,
-            title: "Aniket bhardwaj",
+            title: "Aniket Bhardwaj",
             image: image9,
             text:"Lead",
             git:"https://github.com/Aniket2002",
@@ -134,9 +134,9 @@ const Team_Member=()=>{
          
           {
             id: 12,
-            title: "Prateek gupta",
+            title: "Prateek Gupta",
             image: image12,
-            text:"Lead",
+            text:"Management Head",
             git:"https://github.com/Prateektuk",
             linkdin:"https://www.linkedin.com/mwlite/in/prateek-gupta-aaa891205",
             insta:"https://www.instagram.com/prt__gupta/"
@@ -147,7 +147,7 @@ const Team_Member=()=>{
             id: 13,
             title: "Vaishnavi Awasthi",
             image: image13,
-            text:"Lead",
+            text:"PR Head",
             git:"https://github.com/vaishnavi-a28",
             linkdin:"https://www.linkedin.com/in/vaishnavi-awasthi-26b7151ba",
             insta:"https://www.instagram.com/invites/contact/?i=ghzio7hkvmlw&utm_content=k4rko1b"
@@ -157,7 +157,7 @@ const Team_Member=()=>{
             id: 14,
             title: "Vidhi",
             image: image14,
-            text:"Lead",
+            text:"Graphics Head",
             git:"https://github.com/vidhi-kiet",
             linkdin:"https://www.linkedin.com/in/vidhi-pandey-a03635213",
             insta:""
@@ -177,7 +177,7 @@ const Team_Member=()=>{
       ];
     return (
     <div className="Team_container ">
-         <h3 className="Team_Title">Team Members</h3>
+         <h3 className="Team_Title">Technical Leads</h3>
             <div className="Team_row">
                {cards.map(({ title, image, text,git,linkdin,insta, id }) => (
                   <div className="Team_col" key={id}>

@@ -38,7 +38,7 @@ const Header = () => {
       
         <div className="navigation ">
           <div className="logo">
-            <img src={logo} alt="none" />
+            <Link to='/'> <img src={logo} alt="none" /></Link>
           </div>
 
           <div className="nav">

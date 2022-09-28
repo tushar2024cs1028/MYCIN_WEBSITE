@@ -17,7 +17,6 @@ function AchieveContent() {
           title: "Archit Srivastava",
           image: image1,
           text:"Pan India Poster Making competition",
-          date:"2021-6-15",
           position:"1st Rank"   
         },
         {
@@ -25,7 +24,6 @@ function AchieveContent() {
           title: "Vaishnavi Awasthi",
           image: image2,
           text:"Pan India Poster Making competition",
-          date:"2022-6-15",
           position:"3rd Rank"
          
           
@@ -34,8 +32,7 @@ function AchieveContent() {
           id: 3,
           title: "Team Brute Force",
           image: image3,
-          text:"Smarth India Hackathon-22",
-          date:"2022-08-31",
+          text:"Smart India Hackathon-22",
           position:"Finalists"
          
           
@@ -44,9 +41,8 @@ function AchieveContent() {
             id: 4,
             title: "Student Coordinators",
             image: image4,
-            text:"Smarth India Hackathon-22,Hardware Edition ",
-          date:"2022-08-31",
-          position:"AS a Coordinator"
+            text:"Smart India Hackathon-22,Hardware Edition ",
+          position:"As a Coordinator"
             
             
           },
@@ -55,7 +51,6 @@ function AchieveContent() {
             title: "Team Brute Force",
             image: image5,
             text:"Technothon held at Galgotia University",
-          date:"2022-5-11",
           position:"Finalists,Top 5"
            
             
@@ -65,7 +60,6 @@ function AchieveContent() {
             title: "Siddharth Chourasia",
             image: image6,
             text:"Renaissance MUJ 1.0| Won 15k prize|Manipal University,Jaipur",
-          date:"In 2022",
           position:"1st Rank"
             
           },
@@ -74,7 +68,6 @@ function AchieveContent() {
             title: "Siddharth Chourasia",
             image: image7,
             text:"Innotech 22|Won Prize 5k|KIET Ghaziabad",
-          date:"In 2022",
           position:"3rd Rank"
             
           },
@@ -83,7 +76,6 @@ function AchieveContent() {
             title: "Rajit Rastogi",
             image: image8,
             text:"Startup to Funding (Shark tank Series|Won Prize 25k|Diligentia (PGDAV College ,DU",
-          date:"In 2022",
           position:"1st Rank"
             
           }
@@ -91,9 +83,9 @@ function AchieveContent() {
   return ( <div className="Achievement_container ">
   <h3 className="Achievement_Title">Achievements</h3>
      <div className="Achievement_row">
-        {cards.map(({ title, image, text,date,position, id }) => (
+        {cards.map(({ title, image, text,position, id }) => (
            <div className="Achievement_col" key={id}>
-             <AchieveCard imageSource={image} title={title} text={text} date={date} position={position}/>
+             <AchieveCard imageSource={image} title={title} text={text} position={position}/>
            </div>
            ))}
      </div>

@@ -1,13 +1,13 @@
 import React from "react";
 import "./firstsection.css";
-import Firstim from "../../assests/example-8.svg";
+import Firstim from "../../assests/landingimg2.svg";
 
 
 const firstSection = () => {
   return (
     
       
-        <div className="section1">
+        <div className="section1 w-[80%] m-auto">
             <div className="home_content">
               <h2 className="home_title">
                Welcome to Mycin <br /> Student Driven Club <br /> KIET Innovative Center

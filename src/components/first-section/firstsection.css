@@ -1,6 +1,6 @@
 .section1{
    
-    width: 100%;
+    /* width: 100%; */
     height: 771px;
     margin-top:-10px;
     background: white;
@@ -8,7 +8,7 @@
 }
 
 .home_content{
-    width: 25%;
+    width: 40%;
     margin: 88px;
     margin-left: 68px;
     padding: 38px;
@@ -46,7 +46,8 @@ color: rgba(0, 0, 0, 0.7);
 
 .section1image img{
     
-    width: 800px;
+    width: 742px;
+    height: 632px;
 }
 .btninside{
 

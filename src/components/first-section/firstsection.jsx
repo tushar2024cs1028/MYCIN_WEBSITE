@@ -14,10 +14,10 @@ const firstSection = () => {
               </h2>
               <p className="information1">
               Mycin is a student driven club since 2021 associated with KIET Innovative Center. We are  dedicated to provide all our members an ability to identify, formulate, and solve engineering problems. 
-              <br></br>An understanding of professional and ethical responsibility.
+              <br></br><br></br>An understanding of professional and ethical responsibility.
               
               </p>
-              <button className="btninside">Join us </button>
+             { /*<button className="btninside">Join us </button>*/}
             </div>
             
               <div className="section1image">

@@ -34,8 +34,8 @@ function Footer() {
   	 			             <div className="social-links">
                                 
   	 			             	
-  	 				            <p><a href="https://www.instagram.com/mycin.in/" target="_blank" ><i className="ri-instagram-fill"></i></a>Instagram</p>
-  	 				            <p><a href="https://www.linkedin.com/company/mycin-in/" target="_blank"><i className="ri-linkedin-box-fill"></i></a>Linkedin</p>
+  	 				            <p><a href="https://www.instagram.com/mycin.in/" target="_blank" rel="noreferrer" ><i className="ri-instagram-fill"></i></a>Instagram</p>
+  	 				            <p><a href="https://www.linkedin.com/company/mycin-in/" target="_blank" rel="noreferrer"><i className="ri-linkedin-box-fill"></i></a>Linkedin</p>
   	 			                </div>
   	 		        </div>
 

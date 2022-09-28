@@ -8,6 +8,7 @@ import Events from "./pages/Events";
 import EventsExplore from "./components/Events/EventsExplore/EventsExplore";
 import { useState } from "react";
 import Resources from "./components/Resources/Resources";
+import Error from "./pages/PageNotFound";
 
 function App() {
   const [eventexploredatanew,seteventexploredatanew]=useState("");
@@ -23,7 +24,7 @@ function App() {
       <Route path="Achievements" element={<Achievements/>} />
       <Route path="Events" element={<Events EventExploreData={EventExploreData}/>} />
       <Route path="EventExplore" element={<EventsExplore eventexploredatanew={eventexploredatanew}/>} />
-
+      <Route path="*" element={<Error/>}/>
     </Routes>
     
     <Footer/>

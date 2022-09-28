@@ -7,10 +7,10 @@ const firstSection = () => {
   return (
     
       
-        <div className="section1 w-[80%] m-auto">
+        <div className="section1">
             <div className="home_content">
               <h2 className="home_title">
-               Welcome to Mycin <br /> Student Driven Club <br /> KIET Innovative Center
+               Mycin Club
               </h2>
               <p className="information1">
               Mycin is a student driven club since 2021 associated with KIET Innovative Center. 

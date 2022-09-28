@@ -3,6 +3,7 @@
 	margin:auto;
 }
 .row{
+	margin-top: 45px;
 	display: flex;
 	flex-wrap: wrap;
 }

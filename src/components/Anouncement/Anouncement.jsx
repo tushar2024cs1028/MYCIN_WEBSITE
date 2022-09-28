@@ -4,7 +4,9 @@ import Regimg from "../../assests/regisimg.png";
 
 const Anouncement=()=>{
      return (<div className="anounce">
+              
                 <h3 className="tittleAnounce">Anouncement</h3>
+                <div className="Anouncement_Container">
                 <div className="anouncecontent">
                     <h4 className="Event_name">React Bootcamp Facilitation</h4>
                     <p className="eventdetails">
@@ -15,7 +17,7 @@ const Anouncement=()=>{
                 </div>
                 <div className="Imgsection">
                     <img src={Regimg} alt="" />
-                </div>
+                </div></div>
      </div>);
 };
 export default Anouncement;

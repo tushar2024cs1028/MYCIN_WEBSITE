@@ -1,5 +1,6 @@
 import ImageSlider from "./ImageSlider";
-
+import "./Slider.css";
+import React from "react";
 
 const App = (probs) => {
   
@@ -10,14 +11,10 @@ const App = (probs) => {
     { url:probs.Images[3], title: "D" },
     { url:probs.Images[4], title: "E" },
   ];
-  const containerStyles = {
-    width: "70%",
-    height: "448px",
-    margin: "0 auto",
-  };
+  
   return (
     <div>
-      <div style={containerStyles}>
+      <div className="ContainerStyles" >
         <ImageSlider slides={slides} />
       </div>
     </div>

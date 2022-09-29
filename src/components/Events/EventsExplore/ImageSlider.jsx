@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 const slideStyles = {
   width: "100%",
   height: "100%",
@@ -15,7 +14,7 @@ const rightArrowStyles = {
   transform: "translate(0, -50%)",
   right: "32px",
   fontSize: "45px",
-  color: "#6d6565",
+  color: "aquamarine",
   zIndex: 1,
   cursor: "pointer",
 };
@@ -23,10 +22,10 @@ const rightArrowStyles = {
 const leftArrowStyles = {
   position: "absolute",
   top: "50%",
+  color: "aquamarine",
   transform: "translate(0, -50%)",
   left: "32px",
   fontSize: "45px",
-  color: "#6d6565",
   zIndex: 1,
   cursor: "pointer",
 };

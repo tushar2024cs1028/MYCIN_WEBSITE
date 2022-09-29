@@ -1,6 +1,6 @@
 .section1{
-    height: 100vh;
-    margin-top:-10px;
+    height: 700px;
+    /* margin-top: -10px; */
     background: white;
     
 }
@@ -9,7 +9,7 @@
     position: relative;
     z-index: 1;
     width: 40%;
-    margin: 88px;
+   
     margin-left: 68px;
     padding: 38px;
 }

@@ -27,6 +27,9 @@ const navLinks = [
     url: "/Team",
   },
 ];
+const gettotop=()=>{
+    window.scrollTo({top:0,left:0,behavior:"smooth"});
+}
 
 const Header = () => {
   const menuRef = useRef();
@@ -46,7 +49,7 @@ const Header = () => {
               <ul className="nav__list">
                 {navLinks.map((item, index) => (
                   <li key={index} className="nav__item">
-                    <Link to={item.url}>{item.display}</Link>
+                    <Link to={item.url} onClick={gettotop}>{item.display}</Link>
                   </li>
                 ))}
               </ul>

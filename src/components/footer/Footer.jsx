@@ -4,6 +4,9 @@ import logo from "../../assests/logo.png";
 import { Link } from "react-router-dom";
 
 function Footer() {
+	const gettotop=()=>{
+		window.scrollTo({top:0,left:0,behavior:"smooth"});
+	}
     return (
         <div className="footer">
             <div className="container2">
@@ -21,10 +24,10 @@ function Footer() {
                         <h4>Get help</h4>
   	 			         <ul className="footer-team ullistype">
   	 				        
-  	 				        <li><Link to="/Team">About Team</Link></li>
-  	 				        <li><Link to="/Events">About Events</Link></li>
-							<li><Link to="/Achievements">Achievements</Link></li>
-							<li><Link to="/Resources">About Resources</Link></li>
+  	 				        <li><Link to="/Team" onClick={gettotop}>About Team</Link></li>
+  	 				        <li><Link to="/Events" onClick={gettotop}>About Events</Link></li>
+							<li><Link to="/Achievements" onClick={gettotop}>Achievements</Link></li>
+							<li><Link to="/Resources" onClick={gettotop}>About Resources</Link></li>
   	 			         </ul>
                     </div>
 

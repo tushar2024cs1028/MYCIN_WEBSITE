@@ -8,10 +8,33 @@ import image5 from "../../assests/Achievements/TechathonGalgotia.jpeg";
 import image6 from "../../assests/Achievements/Siddhart.jpg";
 import image7 from "../../assests/Achievements/Innotech2022.jpeg";
 import image8 from "../../assests/Achievements/RajitRastogi.jpeg";
-
+import image9 from "../../assests/Achievements/Innotech22winner.jpg";
+import image10 from "../../assests/Achievements/Innotech22winner2.jpg";
+import image11 from "../../assests/Achievements/smartABESHack.jpg";
 
 function AchieveContent() {
     const cards = [
+      {id: 11,
+        title: "TEAM:ZAVIOURS",
+        image: image10,
+        text:"Innotech 2K22 :Project Category",
+        position:"1nd Runner Up" 
+  
+          },
+      {id: 10,
+      title: "TEAM:SQUADTURNZ",
+      image: image9,
+      text:"Innotech 2K22 :Project Category",
+      position:"2nd Runner Up" 
+
+        },
+        {id: 9,
+          title: "TEAM:DEV_SQUAD",
+          image: image11,
+          text:"Hack This November Hackathon in(ABES College)",
+          position:"Winners" 
+    
+            },
         {
           id: 1,
           title: "Archit Srivastava",

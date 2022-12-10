@@ -43,6 +43,10 @@ import image8c from "../../assests/Events/InductionMCA/4.jpeg";
 import image8d from "../../assests/Events/InductionMCA/5.jpeg";
 import image9 from "../../assests/Events/Lumos/2.jpeg";
 import image9a from "../../assests/Events/Lumos/1.jpg";
+import image9b from "../../assests/Events/Lumos/3.jpeg";
+import image9c from "../../assests/Events/Lumos/4.jpeg";
+import image9d from "../../assests/Events/Lumos/5.jpeg";
+
 
 
 
@@ -51,7 +55,7 @@ const Eventdetails=(probs)=>{
       {
         id: 9,
         title: "Into The Web 3.0",
-        image: [image9,image9a,image9,image9a,image9],
+        image: [image9,image9a,image9b,image9c,image9d],
         text:"MYCIN at KIET Innovation center organized an online webinar on Web3 technologies & Metaverse in association with @labslumos on 25 November 2022. The start of the session was initiated by our president Archit Srivastava (@archit.1203 ). Later on Mr. Tanmay Tarte (@tanmaytarte ) of Lumos Labs continued the session and briefed everyone about various technologies like Blockchain, Crypto, NFT & Metaverse. Later on a quiz was also held in which Aryan Kaushik, Dhruv and Kartik Atri stood finished as the winners and won various swags from the company! The session ended with an address by Mr. Sachin Rathore (Head Innovation Centre).\n\n It was a highly educating and interactive session and we would like to thank ‘Lumos Labs’, Tanmay Tarte, Anshita Soni as well as our college KIET Group of Institutions (@kiet_edu ) for making this collaboration possible."
       },
       {

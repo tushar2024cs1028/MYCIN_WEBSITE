@@ -31,10 +31,41 @@ import image6a from "../../assests/Events/ReactBootcamp/ReactBootcamp1.jpg";
 import image6b from "../../assests/Events/ReactBootcamp/ReactBootcamp2.jpg";
 import image6c from "../../assests/Events/ReactBootcamp/ReactBootcamp3.jpg";
 import image6d from "../../assests/Events/ReactBootcamp/ReactBootcamp4.jpeg";
+import image7 from "../../assests/Events/FoundationDay/1.jpg";
+import image7a from "../../assests/Events/FoundationDay/2.jpeg";
+import image7b from "../../assests/Events/FoundationDay/3.jpeg";
+import image7c from "../../assests/Events/FoundationDay/4.jpeg";
+import image7d from "../../assests/Events/FoundationDay/5.jpeg";
+import image8 from "../../assests/Events/InductionMCA/1.jpeg";
+import image8a from "../../assests/Events/InductionMCA/2.jpeg";
+import image8b from "../../assests/Events/InductionMCA/3.jpeg";
+import image8c from "../../assests/Events/InductionMCA/4.jpeg";
+import image8d from "../../assests/Events/InductionMCA/5.jpeg";
+import image9 from "../../assests/Events/Lumos/2.jpeg";
+import image9a from "../../assests/Events/Lumos/1.jpg";
+
 
 
 const Eventdetails=(probs)=>{
     const cards = [
+      {
+        id: 9,
+        title: "Into The Web 3.0",
+        image: [image9,image9a,image9,image9a,image9],
+        text:"MYCIN at KIET Innovation center organized an online webinar on Web3 technologies & Metaverse in association with @labslumos on 25 November 2022. The start of the session was initiated by our president Archit Srivastava (@archit.1203 ). Later on Mr. Tanmay Tarte (@tanmaytarte ) of Lumos Labs continued the session and briefed everyone about various technologies like Blockchain, Crypto, NFT & Metaverse. Later on a quiz was also held in which Aryan Kaushik, Dhruv and Kartik Atri stood finished as the winners and won various swags from the company! The session ended with an address by Mr. Sachin Rathore (Head Innovation Centre).\n\n It was a highly educating and interactive session and we would like to thank ‘Lumos Labs’, Tanmay Tarte, Anshita Soni as well as our college KIET Group of Institutions (@kiet_edu ) for making this collaboration possible."
+      },
+      {
+        id: 8,
+        title: "Induction Program MCA",
+        image: [image8,image8a,image8b,image8c,image8d],
+        text:"Team Mycin is pleased to share a few glimpses of the Induction program conducted for the MCA first year students.We are thankful to all the speakers, members and students who attended the program."
+      },
+        {
+          id: 7,
+          title: "Foundation Day 10.10.22",
+          image: [image7,image7a,image7b,image7c,image7d],
+          text:"The occasion of Foundation Day is a proud day for every one as it gives them a reason to celebrate the inception. It gives us immense pleasure to share with you all that we at MYCIN will be celebrating our FIRST FOUNDATION DAY on 10 October 2022. The event will consist of the sharing of our journey, Cake cutting and a lot more activities."
+        },
         {
           id: 1,
           title: "Faculty Interaction Session",

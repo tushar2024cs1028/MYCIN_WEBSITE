@@ -1,6 +1,6 @@
 import React from "react";
 import "./Anouncement.css";
-import Regimg from "../../assests/Announcement/Bootcamp2.jpeg";
+import Regimg from "../../assests/Announcement/recruitment2026.jpeg";
 
 const Anouncement=()=>{
      return (<div className="anounce">
@@ -8,30 +8,29 @@ const Anouncement=()=>{
                 <h3 className="tittleAnounce">Announcement</h3>
                 <div className="Anouncement_Container">
                 <div className="anouncecontent">
-                    <h4 className="Event_name">Dev 1.0</h4>
+                    <h4 className="Event_name">RECRUITMENT BATCH 2026</h4>
                     <p className="eventdetails">
-                    MYCIN club is back with an amazing opportunity for you all!🥳🎉<br></br>
+                    Hola Amigos! 👋👋👋<br></br>
 
-🥳🎉 DEV 1.0 🎉🥳<br></br>
+Hope you all are doing great!<br></br>
 
-We are launching a Web Development Training Camp.<br></br>
-In this session, we'll give you training for building a website along with a live project demonstration.<br></br>
+MYCIN is back with its recruitments !✨🙌🔥<br></br>
 
-🗓️Starts: 12Dec, 2022<br></br>
-🕰️Time: 5:00-6:30 PM<br></br>
-📍Venue: Innovation Centre<br></br>
-✨Perks:<br></br>
--> Certificate for all the participants<br></br>
--> Gifts for top three performers<br></br>
+Come and explore these interesting domains with us 👇🏻<br></br>
 
-LAST DATE: 10 Dec, 2022<br></br>
+■ MACHINE LEARNING <br></br>
+■ WEB D<br></br>
+■ AR/VR<br></br>
+■ ANDROID DEVELOPMENT<br></br>
+■ CYBER SECURITY<br></br>
 
+We are super excited to work with the new creative minds. 🔥🥳<br></br>
 
+So what are you guys waiting for? 🤔<br></br>
 
-Hurry up and register yourself for an amazing and interactive session!⌛<br></br>
-Limited seats only!<br></br>
+Hurry up and join us to be a part of an exciting journey!✨<br></br>
                     </p>
-                    <a href="https://forms.gle/1J4vUerPvhqQgZ5C8" target="_blank" rel="noreferrer"><button className="registerbtn">Registe now </button></a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjz55WdXsW1wL54hwruELFIsHcDeZMve3M_Em8Em-i8lJllw/viewform?usp=sf_link" target="_blank" rel="noreferrer"><button className="registerbtn">Register now </button></a>
 
                 </div>
                 <div className="Imgsection">

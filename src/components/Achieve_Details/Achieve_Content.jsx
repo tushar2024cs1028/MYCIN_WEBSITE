@@ -11,9 +11,13 @@ import image8 from "../../assests/Achievements/RajitRastogi.jpeg";
 import image9 from "../../assests/Achievements/Innotech22winner.jpg";
 import image10 from "../../assests/Achievements/Innotech22winner2.jpg";
 import image11 from "../../assests/Achievements/smartABESHack.jpg";
-
+import image12 from "../../assests/Achievements/nasa.jpg";
 function AchieveContent() {
-    const cards = [
+    const cards = [{id: 12,
+      title: "TEAM:2:59 A.M.",
+      image: image12,
+      text:"NASA SPACE APP CHALLENGE 2022",
+        },
       {id: 11,
         title: "TEAM:ZAVIOURS",
         image: image10,

@@ -10,7 +10,7 @@ const Home=()=>{
         
         <Firstsection/>
         <Secondsection/>
-        <Announcement/>
+        
     </div>
     );
 };

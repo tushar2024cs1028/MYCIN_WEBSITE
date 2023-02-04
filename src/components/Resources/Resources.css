@@ -31,6 +31,10 @@ text-decoration-line: underline;
 
 color: #0EB0CC;
 }
+.Arspecific{
+    font-weight: 100;
+    font-size: smaller;
+}
 @media(max-width: 767px){
     .Resources_Name{
       padding-left:20px;

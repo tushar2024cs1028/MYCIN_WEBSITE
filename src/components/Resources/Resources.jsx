@@ -40,7 +40,74 @@ return(
 							<li><a className="alink" href="https://www.youtube.com/watch?v=Sqb-Ue7wpsI&list=PLWKjhJtqVAbmh6kzCSUon-SoTaMvXnHMB" target="_blank" rel="noopener noreferrer">Learn from Brackey's Tutorial </a></li>
   	 				        <li><a className="alink" href="https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&ab_channel=Brackeys" target="_blank"rel="noopener noreferrer">Learn from FreeCodeCamp Tutorials </a></li>
   	 				        <li><a  className="alink" href="https://www.youtube.com/watch?v=E6A4WvsDeLE&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&ab_channel=CodeMonkey" target="_blank" rel="noopener noreferrer">Learn from CodeMonkeys Tutorial </a></li>
-  	 			         </ul>
+							<li><h5>Filters:</h5>
+							<ul>
+								<li className="Arspecific">
+									Instagram: <ul><li><a  className="alink" href="https://www.youtube.com/@SparkARCreators" target="_blank" rel="noopener noreferrer">Meta Spark </a></li>
+													<li><a  className="alink" href="https://www.youtube.com/@djscreates" target="_blank" rel="noopener noreferrer"> Djs Creates </a></li>
+									           </ul>
+								</li>
+								<li className="Arspecific">
+									Snapchat: <ul><li><a  className="alink" href="https://www.youtube.com/@SnapAR" target="_blank" rel="noopener noreferrer">Snap Ar</a></li>
+													<li><a  className="alink" href="https://youtu.be/uJkyC_Lidxw" target="_blank" rel="noopener noreferrer"> One Shot Video </a></li>
+									           </ul>
+								</li>
+							</ul>
+							</li>
+							<li><h5>MarkerBased AR :<a  className="alink" href="https://youtu.be/0tcZSAO9hKI " target="_blank" rel="noopener noreferrer"> MarkerBased AR </a></h5></li>
+							<li><h5>Marker-Less AR :</h5>
+							<ul>
+								<li className="Arspecific">
+								Method1: <a  className="alink" href="https://youtu.be/lelX8GGh_S8" target="_blank" rel="noopener noreferrer">Method1 </a>
+								</li>
+								<li className="Arspecific">
+								Method2 : <a  className="alink" href="https://youtu.be/alaDXwJvlg0" target="_blank" rel="noopener noreferrer">Method2</a>
+								</li>
+							</ul>
+							</li>
+							<li><h5>Documentations :</h5>
+							<ul>
+								<li className="Arspecific">
+								Manual: <a  className="alink" href="https://docs.unity3d.com/2021.3/Documentation/Manual/UnityManual.html" target="_blank" rel="noopener noreferrer">Link </a>
+								</li>
+								<li className="Arspecific">
+								Pathways : <a  className="alink" href="https://learn.unity.com/pathways" target="_blank" rel="noopener noreferrer">Link</a>
+								</li>
+								<li className="Arspecific">
+								Unity YT Channel : <a  className="alink" href="https://www.youtube.com/@unity" target="_blank" rel="noopener noreferrer">Link</a>
+								</li>
+
+							</ul>
+							</li>
+							<li><h5>Hosting | UI/UX  :</h5>
+							<ul>
+								<li className="Arspecific">
+								Webgl Host : <a  className="alink" href="https://youtu.be/q8R3IkbaDso" target="_blank" rel="noopener noreferrer">Link </a>
+								</li>
+								<li className="Arspecific">
+								Figma+Unity  : <a  className="alink" href="https://youtu.be/t1ZaPWh2bII " target="_blank" rel="noopener noreferrer">Link</a>
+								</li>
+							</ul>
+							</li>
+							<li><h5>Zappar Tutorial  :<a  className="alink" href="https://youtu.be/t1ZaPWh2bII" target="_blank" rel="noopener noreferrer">Link </a></h5></li>							
+							<li><h5>Recommended Youtubers :</h5>
+							<ul>
+								<li className="Arspecific">
+								Brackeys : <a  className="alink" href="https://www.youtube.com/@Brackeys" target="_blank" rel="noopener noreferrer">Link </a>
+								</li>
+								<li className="Arspecific">
+								Code Monkeys  : <a  className="alink" href="https://www.youtube.com/@CodeMonkeyUnity" target="_blank" rel="noopener noreferrer">Link</a>
+								</li>
+								<li className="Arspecific">
+								Dilmer Valecillos  : <a  className="alink" href="https://www.youtube.com/@dilmerv" target="_blank" rel="noopener noreferrer">Link</a>
+								</li>
+
+							</ul>
+							</li>
+							<li><h5>ZReference for Project Ideas:<a  className="alink" href="https://youtu.be/OFD2x4qXJ5k " target="_blank" rel="noopener noreferrer">Link </a></h5></li>
+							<li><h5>Shared By Shubhank Dwivedi :<a  className="alink" href="https://www.linkedin.com/in/shubhank-dwivedi/" target="_blank" rel="noopener noreferrer">Linkedin </a></h5></li>							
+
+						 </ul>
             </div>
     
     </div>

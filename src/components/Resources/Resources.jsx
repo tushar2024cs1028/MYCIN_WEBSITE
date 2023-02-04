@@ -37,9 +37,6 @@ return(
                         <h4>Augmented Reality</h4>
                         <hr></hr>
   	 			         <ul className="Resources_Link">
-							<li><a className="alink" href="https://www.youtube.com/watch?v=Sqb-Ue7wpsI&list=PLWKjhJtqVAbmh6kzCSUon-SoTaMvXnHMB" target="_blank" rel="noopener noreferrer">Learn from Brackey's Tutorial </a></li>
-  	 				        <li><a className="alink" href="https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&ab_channel=Brackeys" target="_blank"rel="noopener noreferrer">Learn from FreeCodeCamp Tutorials </a></li>
-  	 				        <li><a  className="alink" href="https://www.youtube.com/watch?v=E6A4WvsDeLE&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&ab_channel=CodeMonkey" target="_blank" rel="noopener noreferrer">Learn from CodeMonkeys Tutorial </a></li>
 							<li><h5>Filters:</h5>
 							<ul>
 								<li className="Arspecific">

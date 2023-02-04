@@ -104,7 +104,7 @@ return(
 
 							</ul>
 							</li>
-							<li><h5>ZReference for Project Ideas:<a  className="alink" href="https://youtu.be/OFD2x4qXJ5k " target="_blank" rel="noopener noreferrer">Link </a></h5></li>
+							<li><h5>Reference for Project Ideas:<a  className="alink" href="https://youtu.be/OFD2x4qXJ5k " target="_blank" rel="noopener noreferrer">Link </a></h5></li>
 							<li><h5>Shared By Shubhank Dwivedi :<a  className="alink" href="https://www.linkedin.com/in/shubhank-dwivedi/" target="_blank" rel="noopener noreferrer">Linkedin </a></h5></li>							
 
 						 </ul>

@@ -14,7 +14,8 @@ function Footer() {
                  <div className="footer-col footer-map-col">
                         <img className="logo2" src={logo} alt=""></img>
   	 			         <ul className="logoul ullistype">
-  	 				        <li><p className="footer-item footer-map"><iframe className="iframmap" title="KietMap" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=KIET%20Group%20of%20institution%20Ghaziabad+(KIET%20Ghaziabad)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></p></li>
+  	 				        <li><p className="footer-item footer-map"><iframe title="kietmap" className="iframmap" frameBorder="0" scrolling="no"  id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=kiet%20college%20ghaziabad%20muradnagar+()&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></p></li>
+
   	 				        <li><p className="footer-item">Email: mycin@kiet.edu</p></li>
   	 				        <li><p className="footer-item">Phone no:+91 87951 90037</p></li>
   	 				        
